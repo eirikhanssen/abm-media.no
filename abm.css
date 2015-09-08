@@ -1,0 +1,362 @@
+html,
+body,
+body header,
+header h1 {
+    margin: 0;
+    padding: 0;
+}
+body {max-width: 85rem; margin: auto;}
+body:after {
+    content: "";
+    display: block;
+    margin-bottom: 1rem;
+}
+ul {line-height: 1.75rem;}
+.column {float: left;}
+/* abmsitenav */
+#abmsitenav {
+    width: 100%;
+    /*background-color: #c0bc99;*/
+    background-color: #e5e2ca;
+    text-align: center;
+    border-top: 1px solid #84826a;
+    border-bottom: 1px solid #84826a;
+    padding: 0;
+}
+#abmsitenav ul {
+   margin: 0 auto;
+    padding: 0;
+    display: inline-block;
+    text-align: center;
+}
+#abmsitenav li {
+    float:left;
+    list-style: none;
+    height: 1.5rem;
+}
+
+a#headerwrap {text-decoration: none; color: black;}
+a#headerwrap:link {text-decoration: none;}
+a#headerwrap:hover {text-decoration: none;}
+
+#abmsitenav li + li {margin-left: .5rem;}
+
+#abmsitenav li a {
+    text-decoration: none; 
+    font-family: sans-serif;
+    color: black;
+    height: 1.5rem;
+    padding: .25rem .5rem;
+    
+}
+
+#abmsitenav li a:hover {
+    background: #f4f1da;
+    text-decoration: underline;
+}
+
+#footer {
+    display: inline-block;
+    margin-top: 2rem;
+    width: 100%;
+    background: #e5e2ca;
+    border-top: 1px solid #84826a;
+    padding-top: 1rem;
+    padding-bottom: .25rem;
+}
+
+#footer .column {
+    margin-left: 1rem;
+}
+#footer .column + .column {
+    margin-left: 2rem;
+}
+
+#footer h4 {margin-top: 0;}
+
+p {line-height: 1.75rem; margin-top: .25rem;}
+
+p+p {margin-top: 1rem;}
+
+main {margin-left: 1rem; margin-right: 1rem; line-height: 1.75rem;}
+
+main h1 {margin-top: 2em;}
+
+h1 { font-size: 1.5em;
+font-family: sans-serif;}
+
+h2 {
+    font-size: 1.25em;
+    margin-bottom: .25rem;
+    margin-top: 1.5rem;
+    font-family: sans-serif;
+    color: #555;
+}
+
+h1 + h2 {margin-top: .5em;}
+
+h3 {
+    font-size: 1em;
+    font-weight: bold;
+    font-family: serif;
+    margin-bottom: .25rem;
+    margin-top: .5rem;
+}
+
+h4 {
+    margin-bottom: .25rem;
+    margin-top: 1.5rem;
+}
+
+body > * {
+    /*margin-left: .5rem;
+    margin-right: .5rem;*/
+}
+
+#booklistTBL a:link {display: block;}
+
+a:link {color: blue;}
+a:visited {color: purple;}
+a:hover {text-decoration: underline;}
+a:active {text-decoration: underline;}
+
+.booktitle-wrap {
+    
+}
+.booktitle-wrap h2, .booktitle-wrap h3 {margin-top: 1rem;}
+.booktitle-wrap h3 {margin-bottom: 1rem;}
+
+.contain:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+.contain {display: inline-block;}
+
+#booklist table {
+    margin: auto;
+}
+#books {
+    margin: 0;
+}
+
+#booklist tr:hover td, #booklist th:hover {
+    border-color: gray;
+}
+#booklist th {
+    background-image: url(img/sort_unsorted.svg);
+    background-position: right .25rem center;
+    background-size: 1em 1em;
+    background-repeat: no-repeat;
+    text-align: left;
+    padding: .5rem;
+    border: 1px solid #ccc;
+    position: relative;
+}
+#booklist #booklistTBL th:hover {
+    text-decoration: underline;
+    background-image: url(img/sort_transp_asc.svg);
+    cursor: ns-resize;
+    box-shadow: 0 0 5px #747474;
+}
+
+#booklist #booklistTBL thead[data-order="1"] th#booklist-titles:hover,
+#booklist #booklistTBL thead[data-order="2"] th#booklist-authors:hover,
+#booklist #booklistTBL thead[data-order="3"] th#booklist-prices:hover{
+    background-image: url(img/sort_transp_asc.svg);
+}
+
+
+#booklist #booklistTBL thead[data-order="-1"] th#booklist-titles:hover,
+#booklist #booklistTBL thead[data-order="-2"] th#booklist-authors:hover,
+#booklist #booklistTBL thead[data-order="-3"] th#booklist-prices:hover{
+    background-image: url(img/sort_transp_desc.svg);
+}
+
+#booklist tbody tr:hover td {
+    background-color: #ffffe6;
+} 
+#booklist td {
+    border: 1px solid #ccc;
+    text-align: left;
+    padding: .5rem;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+#booklist tbody tr:before {
+    content: "";
+    float: left;
+    overflow: hidden;
+    min-height: 4em;
+}
+#booklist thead tr:before {
+    content: "";
+    float: left;
+    overflow: hidden;
+    min-height: 0em;
+}
+#booklist th {
+    font-size: 1em;
+    font-family: sans-serif;
+    padding-left: .5em;
+}
+#books h3.booktitle {
+    margin-top: 0.25rem;
+    font-size: 1.4rem;
+    font-family: sans-serif;
+    line-height: 1.75rem;
+}
+
+h2.booktitle {
+    font-family: sans-serif;
+    font-size: 2rem;
+    line-height: 1.25em;
+}
+
+h3.authors {font-style: italic;}
+
+#booklist td.price {
+    text-align: right;
+}
+
+/* Style table header cells depending on if they are sorted descending or ascending */
+thead[data-order="-1"] th#booklist-titles, 
+thead[data-order="-2"] th#booklist-authors, 
+thead[data-order="-3"] th#booklist-prices {
+    background-color: #c0bc99;
+    border-color: gray;
+    background-image: url(img/sort_desc.svg);
+}
+
+thead[data-order="1"] th#booklist-titles, 
+thead[data-order="2"] th#booklist-authors, 
+thead[data-order="3"] th#booklist-prices {
+    background-color: #c0bc99; 
+    border-color: gray;
+    background-image: url(img/sort_asc.svg);
+}
+
+/* bookmeta styling */
+
+ul.bookmeta {
+    padding-left: 0;
+    margin-top: 0;
+}
+
+#books ul.bookmeta {
+    float: left;
+}
+
+#utgivelse .bookmeta {
+    line-height: 1.75rem;
+}
+
+#books .bookmeta .price:before {
+    content: "Pris: ";
+}
+
+#books .bookmeta li+li {margin-top: .5rem;}
+
+#books .bookmeta .authors {
+    font-size: 1.5rem;
+    font-family: garamond, serif;
+    font-weight: bold;
+}
+#company {
+    background-color: #c0bc99;
+    background-image: url(img/abm-media-logo200x200.png);
+    background-repeat: no-repeat;
+    background-position: center left;
+    background-size: 4em;
+    height: 4em;
+    padding-left: 4em;
+}
+#company h1 {
+    font-size: 2em;
+    line-height: 2em;
+    font-family: "Garamond", "Times New Roman", serif;
+    position: relative;
+    z-index: 2;
+    white-space: pre;
+}
+body .utgivelse {
+    background-color: #eee;
+    padding-top: 1em;
+    border-radius: .5em;
+    border: 1px solid #aaa;
+    position: relative;
+    padding-left: 12rem;
+    min-height: 14rem;
+}
+
+.utgivelse + .utgivelse {margin-top: .5rem;}
+
+.utgivelse h3, .utgivelse ul {margin-right: .5rem;}
+
+div.utgivelse:hover {
+    border-color: black;
+    box-shadow: 0 0 .5em #747474;
+    background-color: #fafafa;
+}
+
+.cover {
+    border: 1px solid gray;
+    position: absolute;
+    width: 10rem;
+    height: auto;
+    top: 0; bottom: 0; margin: auto; margin-left: 1rem; left: 0;
+    
+}
+.titlecover {
+    border: 1px solid gray;
+    margin-left: 1rem;
+    margin-bottom: .5rem;
+
+}
+.clearfix {
+    clear: both;
+}
+.book-author,
+.book-year,
+.book-pagecount,
+.book-price {
+    display: block;
+}
+#utgivelser {
+    border: 1px solid red;
+    padding: 1em;
+}
+
+#books .utgivelse {display: block;}
+
+.utgivelse p.more {float: left; clear: left; margin-top: 0;}
+ul.bookmeta {
+    list-style-type: none;
+}
+
+/* utgivelse */
+.fullsizecover {
+    border: 1px solid gray;
+    display: block;
+    margin: auto;
+    box-shadow: .125rem .125rem .25rem gray;
+}
+
+p.visits {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: sans-serif;
+    color: gray;
+}
+
+@media screen and (max-width: 40rem) {
+    #books .utgivelse {
+        /* regler for visning av utgivelser ved smal layout */
+    }
+
+}
