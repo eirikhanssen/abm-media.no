@@ -14,7 +14,7 @@
         <li><strong>Forlag: </strong> ABM-media</li>
         <li><strong>Utgave: </strong>1. utg.</li>
         <li><strong>Ant sider: </strong>305</li>
-        <li><strong>Pris: </strong>200,&ndash;</li>
+        <li><strong>Pris: </strong>300,&ndash;</li>
     </ul>
     <h3>Sammendrag</h3>
     <p>Festskriftet ble laget i forbinndelse med at Egil Nys&aelig;ter fratr&aring;dde som fylkesarkivar i Hordaland. Festskriftet speiler Nys&aelig;ters arbeid innenfor arkiv og lokalhistorie. Her er det artikler om utviklinga i lokalhistorisk forsking, om fotografi som kjelde, om etableringen av interkommunalt arkiv p&aring; Nord-Vestlandet, om arkiv og etikk, om formidling av arkivinformasjon, om bevaring av elektroniske arkiv og om statlig arkivpolitikk for &aring; nemne noen av temaene.</p>
