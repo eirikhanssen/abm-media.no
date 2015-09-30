@@ -9,7 +9,7 @@
 
 <body>
 <?php include 'inc_header.php'; ?>
-<?php include 'inc_nav.php'; ?>    
+<?php include 'inc_nav.php'; ?>
     <main class="contain">
         <h1 id="title">Utgivelser fra ABM-media as</h1>
         <p>For bestilling, send e-post til <strong><a href="mailto:post@abm-media.no">post@abm-media.no</a></strong></p>

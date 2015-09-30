@@ -14,7 +14,7 @@
         <li><strong>Forlag: </strong> ABM-media</li>
         <li><strong>Utgave: </strong>1. utg.</li>
         <li><strong>Ant sider: </strong>291</li>
-        <li><strong>Pris: </strong>270,&ndash;</li>
+        <li><strong>Pris: </strong>275,&ndash;</li>
     </ul>
     <h3>Sammendrag</h3>
     <p>Boka er den endelige rapporten fra et forskningsprosjekt om minoriteter i offentlige arkiv,&nbsp;&nbsp;utf&oslash;rt av&nbsp;Kaisa Johanna Maliniemi p&aring; oppdrag fra Landslaget for lokal- og privatarkiv.</p>
