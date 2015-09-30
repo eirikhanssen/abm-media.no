@@ -23,7 +23,8 @@
        <p>ABM-Media AS skal ha som intensjon &aring; etablere publiseringskanaler for arkiv, bibliotek og museumsomr&aring;dene som er godkjent i UH-sektorens finansieringssystem.</p>
        <p>Les mer <a href="om.php">om ABM-media</a>, hvordan du <a href="kontakt.php">kommer i kontakt</a> med oss, eller se p&aring; <a href="utgivelser.php">utgivelsene</a> v&aring;re som kan bestilles.</p>
         <h1>Nyheter</h1>
-        <p>2015-09-30: Oppdatert prisliste og lagt til ny utgivelse: <a href="http://www.abm-media.no/utgivelser.php#9788293298090">Wilhelm Reich og Trygve Braatøy og Aadel Bülow-Hansen-tradisjonen i Norge. Utviklingen fra interessegruppe til akademisk utdanning i årene 1956-2006.</a></p>
+		<p>2015-09-30: Oppdatert prisliste</p>
+		<p>Siste publikasjon: <a href="http://www.abm-media.no/utgivelse.php?isbn=9788293298113">Norsk lærarutdanning i etterkrigstida. Ei utvikling i spenning mellom tradisjon og fornying.</a></p>
 
 <?php include 'inc_footer.php'; ?>
 <p class="visits">Antall bes&oslash;k:
