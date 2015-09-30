@@ -88,6 +88,14 @@
 				<td>Anne Aune og Gudmund Valderhaug (Red.)</td>
 				<td class="price">300,&ndash;</td>
 			</tr>
+			
+			
+			<tr>
+				<td><a href="#9788293298090">Wilhelm Reich og Trygve Braatøy og Aadel Bülow-Hansen-tradisjonen i Norge. Utviklingen fra interessegruppe til akademisk utdanning i årene 1956-2006.</a>
+				</td>
+				<td>Berit Heir Bunkan</td>
+				<td class="price">420,&ndash;</td>
+			</tr>
 		</tbody>
 	</table>
 </div>

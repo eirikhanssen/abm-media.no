@@ -235,4 +235,23 @@
             </a>
 		</p>
 	</div>
+	
+	<div id="9788293298090" class="utgivelse contain">
+		<a href="img/cover-utvikling_fra_interessegruppe_akademisk_utdanning-466x600.jpg" title="Coverbilde for: Undervegs. Festskrift til Egil Nys&aelig;ter">
+			<img alt="Coverbilde. Kullskisse som viser en pasient som ligger på en benk og får massert ansiktsmuskler av en fysioterapeut." src="img/cover-utvikling_fra_interessegruppe_akademisk_utdanning-466x600.jpg" class="cover" height="200" width="151">
+		</a>
+		<h3 class="booktitle">Wilhelm Reich og Trygve Braatøy og Aadel Bülow-Hansen-tradisjonen i Norge. Utviklingen fra interessegruppe til akademisk utdanning i årene 1956-2006.</h3>
+		<ul class="bookmeta">
+			<li class="authors">Berit Heir Bunkan</li>
+			<li>Utgivelses&aring;r: 2014
+			</li>
+			<li class="keywords">Emneord: psykomotorisk, fysioterapeut, høgskole, utdanning</li>
+			<li>ISBN: 9788293298090</li>
+			<li class="price">420,&ndash;</li>
+		</ul>
+		<p class="more"><a href="utgivelse.php?isbn=9788293298090">
+                Vis mer informasjon om denne utgivelsen ...
+            </a>
+		</p>
+	</div>
 </div>
