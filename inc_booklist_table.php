@@ -50,7 +50,7 @@
 				<td><a href="#9788299793230">Hva arkivene skjulte? En unders&oslash;kelse av kvensk og samisk i offentlige arkiver i Kistrand (Porsanger) og Nordreisa 1865-1948.</a>
 				</td>
 				<td>Kaisa Johanna Maliniemi</td>
-				<td class="price">270,&ndash;</td>
+				<td class="price">275,&ndash;</td>
 			</tr>
 			<tr>
 				<td><a href="#9788293298076">H&oslash;gre utdanning 1970-1994 med vekt p&aring; h&oslash;gskolevirksomheten i Oslo og Akershus.</a>
@@ -68,7 +68,7 @@
 				<td><a href="#9788299793261">L&aelig;rerutdanning i liv og l&aelig;re gjennom 50 &aring;r</a>
 				</td>
 				<td>Per &Oslash;sterud</td>
-				<td class="price">275,&ndash;</td>
+				<td class="price">300,&ndash;</td>
 			</tr>
 			<tr>
 				<td><a href="#9788293298113">Norsk l&aelig;rarutdanning i etterkrigstida. Ei utvikling i spenning mellom tradisjon og fornying.</a>
@@ -86,7 +86,7 @@
 				<td><a href="#9788299793216">Undervegs. Festskrift til Egil Nys&aelig;ter</a>
 				</td>
 				<td>Anne Aune og Gudmund Valderhaug (Red.)</td>
-				<td class="price">200,&ndash;</td>
+				<td class="price">300,&ndash;</td>
 			</tr>
 		</tbody>
 	</table>

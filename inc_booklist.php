@@ -120,7 +120,7 @@
 			</li>
 			<li class="keywords">Emneord: Spr&aring;kpolitikk, Arkiver, Kildeskrifter, Kirkeb&oslash;ker, Kistrand - Historie, Nordreisa - Historie, Kvener, Samer, L&aelig;stadianismen - Nord-Troms, Arkivkunnskap, Minoritetspolitikk - Porsanger, Minoritetspolitikk - Nordreisa, Nordreisa, Lokalhistorie, Kvensk spr&aring;k, Samisk spr&aring;k, Finnmark, Porsanger, lokalsamlinger</li>
 			<li>ISBN: 9788299793230</li>
-			<li class="price">270,&ndash;</li>
+			<li class="price">275,&ndash;</li>
 		</ul>
 		<p class="more"><a href="utgivelse.php?isbn=9788299793230">
                 Vis mer informasjon om denne utgivelsen ...
@@ -193,7 +193,7 @@
 			</li>
 			<li class="keywords">Emneord: l&aelig;rarutdanning, l&aelig;rerutdanning, grunnskole, undervisning, historie</li>
 			<li>ISBN: 9788293298113</li>
-			<li class="price">200,&ndash;</li>
+			<li class="price">300,&ndash;</li>
 		</ul>
 		<p class="more"><a href="utgivelse.php?isbn=9788293298113">Vis mer informasjon om denne utgivelsen ...</a>
 		</p>
@@ -228,7 +228,7 @@
 			</li>
 			<li class="keywords">Emneord: Nys&aelig;ter, Egil 1941-, Norge: Lokalhistorie: Kilder, Arkiver, Historie - Hordaland, Festskrift, Historieforskning, Forskning, Lokalhistorie, Norge, Kilder, Kulturminner, Lokalhistorie (Faget), Bibliotek, Arkivvesen, Arkivkunnskap</li>
 			<li>ISBN: 9788299793216</li>
-			<li class="price">200,&ndash;</li>
+			<li class="price">300,&ndash;</li>
 		</ul>
 		<p class="more"><a href="utgivelse.php?isbn=9788299793216">
                 Vis mer informasjon om denne utgivelsen ...

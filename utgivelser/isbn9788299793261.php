@@ -14,7 +14,7 @@
         <li><strong>Forlag: </strong> ABM-media</li>
         <li><strong>Utgave: </strong>1. utg.</li>
         <li><strong>Ant sider: </strong>300</li>
-        <li><strong>Pris: </strong>275,&ndash;</li>
+        <li><strong>Pris: </strong>300,&ndash;</li>
     </ul>
     <h3>Sammendrag</h3>
     <p>Boka inneholder en samling av tekster som er blitt til gjennom 50 &aring;r i skole og utdanning. Samlingen starter med en prolog som heter «den gang og n&aring;». Den kan leses som Per &Oslash;steruds dannelsesreise. Her er det vist til to b&aelig;rebjelker i hans livsl&oslash;p. Den ene er forholdet mellom folkelig og akademisk dannelse. Den andre er forholdet mellom det &aring; utdanne seg, kvalifisere seg for et yrke, og det &aring; utvikle seg som mennesker, som person og samfunnsborger med n&aelig;rhet til omgivelsen. Et must for pedagogiske utdanninger!</p>
