@@ -8,7 +8,6 @@
     <style type="text/css">
         table.program th {
             vertical-align: top;
-            
         }
         table.program {line-height: 1.75rem;}
         table.program td {padding-left: 2rem;}
@@ -40,6 +39,11 @@
         <p><strong>Styreleder:</strong> Nils Pharo <br/>
 e-post: <a href="mailto:nils.pharo@hioa.no">nils.pharo@hioa.no</a><br/>
 Telefon: 67 23 <strong>83 02</strong></p>
+  
+        <p><strong>Utgivelser/bestilling av publikasjoner:</strong> Kristin Larsen <br/>
+e-post: <a href="mailto:kristin.larsen@hioa.no">kristin.larsen@hioa.no</a><br/>
+Telefon: 67 23 <strong>52 07</strong></p>
+  
    <h2>&Oslash;vrige styremedlemmer i ABM-media</h2>
    <ul class="styre">
        <li><em>Nestleder:</em> Nina Granlund S&aelig;ther</li>
