@@ -83,14 +83,19 @@
 				<td class="price">395,&ndash;</td>
 			</tr>
 			<tr>
+				<td><a href="#9788293298120">Samle, formidle, dele. 75 år med bibliotekarutdanning</a>
+				</td>
+				<td>Ragnar Audunson (red.)</td>
+				<td class="price">250,&ndash;</td>
+			</tr>
+			<tr>
 				<td><a href="#9788299793216">Undervegs. Festskrift til Egil Nys&aelig;ter</a>
 				</td>
 				<td>Anne Aune og Gudmund Valderhaug (Red.)</td>
 				<td class="price">300,&ndash;</td>
 			</tr>
 			<tr>
-				<td><a href="#9788293298090">Wilhelm Reich og Trygve Braatøy og Aadel Bülow-Hansen-tradisjonen i Norge. Utviklingen fra interessegruppe til akademisk utdanning i årene 1956-2006.</a>
-				</td>
+				<td><a href="#9788293298090">Wilhelm Reich og Trygve Braatøy og Aadel Bülow-Hansen-tradisjonen i Norge. Utviklingen fra interessegruppe til akademisk utdanning i årene 1956-2006.</a></td>
 				<td>Berit Heir Bunkan</td>
 				<td class="price">420,&ndash;</td>
 			</tr>

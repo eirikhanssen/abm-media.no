@@ -217,6 +217,23 @@
             </a>
 		</p>
 	</div>
+	<div id="9788293298120" class="utgivelse contain">
+		<a href="img/samle-formidle-dele-422x600.jpg" title="Coverbilde for: Samle, formidle, dele. 75 år med bibliotekarutdanning">
+			<img alt="Coverbilde for Samle, formidle, dele. 75 år med bibliotekarutdanning" src="img/samle-formidle-dele-422x600.jpg" class="cover" height="200" width="141">
+		</a>
+		<h3 class="booktitle">Samle, formidle, dele. 75 år med bibliotekarutdanning</h3>
+		<ul class="bookmeta">
+			<li class="authors">Ragnar Audunson (red.)</li>
+			<li>Utgivelses&aring;r: 2015</li>
+			<li class="keywords">Emneord: bibliotekarutdanning, arkivutdanning, arkiv, bibliotek</li>
+			<li>ISBN: 9788293298120</li>
+			<li class="price">250,&ndash;</li>
+		</ul>
+		<p class="more"><a href="utgivelse.php?isbn=9788293298120">
+                Vis mer informasjon om denne utgivelsen ...
+            </a>
+		</p>
+	</div>
 	<div id="9788299793216" class="utgivelse contain">
 		<a href="img/undervegs-453x600.jpg" title="Coverbilde for: Undervegs. Festskrift til Egil Nys&aelig;ter">
 			<img alt="Coverbilde for Undervegs. Festskrift til Egil Nys&aelig;ter" src="img/undervegs-453x600.jpg" class="cover" height="200" width="151">
