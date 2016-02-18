@@ -186,14 +186,14 @@
 		<a href="img/cover-9788293298113-NLIE-425x600.jpg" title="Coverbilde for: Ny praksis &ndash; ny kunnskap: Om utviklingsarbeid som sjanger">
 			<img alt="Coverbilde for Norsk l&aelig;rarutdanning i etterkrigstida. Ei utvikling i spenning mellom tradisjon og fornying." src="img/cover-9788293298113-NLIE-425x600.jpg" class="cover" height="200" width="158">
 		</a>
-		<h3 class="booktitle">Norsk l&aelig;rarutdanning i etterkrigstida. Ei utvikling i spenning mellom tradisjon og fornying.</h3>
+		<h3 class="booktitle">Norsk lærarutdanning i etterkrigstida. Ei utvikling i spenning mellom tradisjon og fornying.</h3>
 		<ul class="bookmeta">
 			<li class="authors">Per &Oslash;sterud, Sigmund Sunnan&aring; og &Aring;sulv Fr&oslash;ysnes</li>
 			<li>Utgivelses&aring;r: 2015
 			</li>
 			<li class="keywords">Emneord: l&aelig;rarutdanning, l&aelig;rerutdanning, grunnskole, undervisning, historie</li>
 			<li>ISBN: 9788293298113</li>
-			<li class="price">300,&ndash;</li>
+			<li class="price">200,&ndash;</li>
 		</ul>
 		<p class="more"><a href="utgivelse.php?isbn=9788293298113">Vis mer informasjon om denne utgivelsen ...</a>
 		</p>
