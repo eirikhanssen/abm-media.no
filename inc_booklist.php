@@ -1,4 +1,25 @@
 <div id="books">
+	<div id="9788293298137" class="utgivelse contain">
+		<a href="img/arkivdag460x600.jpg" title="Coverbilde for: #arkividag - relevans, medvirkning, dialog">
+			<img alt="Coverbilde for #arkividag - relevans, medvirkning, dialog" src="img/arkivdag460x600.jpg" class="cover" height="200" width="153">
+		</a>
+		<h3 class="booktitle">#arkividag - relevans, medvirkning, dialog</h3>
+		<ul class="bookmeta">
+			<li class="authors">Marit Hosar, Ellen Røsjø, Bente Jensen, Charlotte S.H. Jensen, Anna Ketola og Maria Larsson Östergren (Red.)</li>
+			<li>Utgivelses&aring;r: 2016
+			</li>
+			<li class="keywords"><strong>Emneord (norsk): </strong>arkiv, arkivkunnskap, formidling, dokumenter, historie, relevans, medvirkning, dialog, kommunikation, sociale medier, arkivformidling, kulturarvsformidling, kulturarv</li>
+        	<li class="keywords"><strong>Emneord (svenska): </strong>Arkiv, arkivvetenskap (och arkiv- och informationsvetenskap), förmedling, dokument (och dokumentation), historia, relevans, medverkande, dialog, kommunikation, sociala medier, arkivförmedling (och/eller arkivpedagogik), kulturarvsförmedling (och/eller kulturarvspedagogik), kulturarv.</li>
+        	<li class="keywords"><strong>Emneord (dansk): </strong>Arkivalier, arkivformidlingsskonferencer, arbejdsområde, begrebsforståelse, bruger</li>
+			<li>ISBN: 9788293298137</li>
+			<li class="price">390,&ndash;</li>
+		</ul>
+		<p class="more"><a href="utgivelse.php?isbn=9788293298137">
+                Vis mer informasjon om denne utgivelsen ...
+            </a>
+		</p>
+	</div>
+
 	<div id="9788299793209" class="utgivelse contain">
 		<a href="img/biblioteklover-448x600.jpg" title="Coverbilde for: Biblioteklover og annen statlig bibliotekpolitikk i Norden">
 			<img alt="Coverbilde for Biblioteklover og annen statlig bibliotekpolitikk i Norden" src="img/biblioteklover-448x600.jpg" class="cover" height="200" width="149">

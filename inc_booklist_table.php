@@ -11,6 +11,12 @@
 		</thead>
 		<tbody>
 			<tr>
+				<td><a href="#9788293298137">#arkividag - relevans, medvirkning, dialog</a>
+				</td>
+				<td>Marit Hosar, Ellen Røsjø, Bente Jensen, Charlotte S.H. Jensen, Anna Ketola og Maria Larsson Östergren (Red.)</td>
+				<td class="price">390,&ndash;</td>
+			</tr>
+			<tr>
 				<td><a href="#9788299793209">Biblioteklover og annen statlig bibliotekpolitikk i Norden</a>
 				</td>
 				<td>Asbj&oslash;rn Langeland</td>
