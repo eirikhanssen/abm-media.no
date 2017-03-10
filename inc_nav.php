@@ -4,6 +4,5 @@
         <li><a href="om.php">Om ABM-media</a></li>
         <li><a href="kontakt.php">Kontaktinformasjon</a></li>
         <li><a href="utgivelser.php">Utgivelser</a></li>
-        <li><a href="nyhetsarkiv.php">Nyhetsarkiv</a></li>
     </ul>
 </nav>
