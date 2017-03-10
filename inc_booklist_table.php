@@ -23,6 +23,13 @@
 				<td class="price">200,&ndash;</td>
 			</tr>
 			<tr>
+				<td><a href="#9788293298144">Bibliotek og offentlig informasjon</a>
+				</td>
+				<td>&Oslash;ivind Frisvold</td>
+				<td class="price">100,&ndash;</td>
+			</tr>
+			
+			<tr>
 				<td><a href="#9788293298007">DRS Cumulus Oslo 2013. Design Learning for Tomorrow. Design Education from kindergarten to PhD. Proceedings from the 2nd International Conference for Design Education Researchers, 14-17 May 2013.</a>
 				</td>
 				<td>Janne Beate Reitan, Peter Loyd, Erik Bohemia, Liv Merete Nielsen, Ingvild Digranes og Eva Lutn&aelig;s (Red.)</td>

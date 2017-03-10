@@ -1,6 +1,6 @@
 <div id="books">
 	<div id="9788293298137" class="utgivelse contain">
-		<a href="img/arkivdag460x600.jpg" title="Coverbilde for: #arkividag - relevans, medvirkning, dialog">
+		<a href="utgivelse.php?isbn=9788293298137" title="Coverbilde for: #arkividag - relevans, medvirkning, dialog">
 			<img alt="Coverbilde for #arkividag - relevans, medvirkning, dialog" src="img/arkivdag460x600.jpg" class="cover" height="200" width="153">
 		</a>
 		<h3 class="booktitle">#arkividag - relevans, medvirkning, dialog</h3>
@@ -21,7 +21,7 @@
 	</div>
 
 	<div id="9788299793209" class="utgivelse contain">
-		<a href="img/biblioteklover-448x600.jpg" title="Coverbilde for: Biblioteklover og annen statlig bibliotekpolitikk i Norden">
+		<a href="utgivelse.php?isbn=9788299793209" title="Coverbilde for: Biblioteklover og annen statlig bibliotekpolitikk i Norden">
 			<img alt="Coverbilde for Biblioteklover og annen statlig bibliotekpolitikk i Norden" src="img/biblioteklover-448x600.jpg" class="cover" height="200" width="149">
 		</a>
 		<h3 class="booktitle">Biblioteklover og annen statlig bibliotekpolitikk i Norden</h3>
@@ -38,8 +38,30 @@
             </a>
 		</p>
 	</div>
+
+
+	<div id="9788293298144" class="utgivelse contain">
+		<a href="utgivelse.php?isbn=9788293298144" title="Coverbilde for Bibliotek og offentlig informasjon">
+			<img alt="Bibliotek og offentlig informasjon" src="img/bibliotek_og_offentlig_informasjon.jpg" class="cover" height="200" width="149">
+		</a>
+		<h3 class="booktitle">Bibliotek og offentlig informasjon</h3>
+		<ul class="bookmeta">
+			<li class="authors">&Oslash;ivind Frisvold</li>
+			<li>Utgivelses&aring;r: 2017
+			</li>
+			<li class="keywords">Emneord: bibliotek, informasjon, offentlig</li>
+			<li>ISBN: 9788293298144</li>
+			<li class="price">100,&ndash;</li>
+		</ul>
+		<p class="more"><a href="utgivelse.php?isbn=9788293298144">
+                Vis mer informasjon om denne utgivelsen ...
+            </a>
+		</p>
+	</div>
+
+
 	<div id="9788293298007" class="utgivelse contain">
-		<a href="img/drs_cumulus-442x600.jpg" title="Coverbilde for: DRS Cumulus Oslo 2013. Design Learning for Tomorrow. Design Education from kindergarten to PhD. Proceedings from the 2nd International Conference for Design Education Researchers, 14-17 May 2013.">
+		<a href="utgivelse.php?isbn=9788293298007" title="Coverbilde for: DRS Cumulus Oslo 2013. Design Learning for Tomorrow. Design Education from kindergarten to PhD. Proceedings from the 2nd International Conference for Design Education Researchers, 14-17 May 2013.">
 			<img alt="Coverbilde for DRS Cumulus Oslo 2013. Design Learning for Tomorrow. Design Education from kindergarten to PhD. Proceedings from the 2nd International Conference for Design Education Researchers, 14-17 May 2013." src="img/drs_cumulus-442x600.jpg" class="cover" height="200" width="147">
 		</a>
 		<h3 class="booktitle">DRS Cumulus Oslo 2013. Design Learning for Tomorrow. Design Education from kindergarten to PhD. Proceedings from the 2nd International Conference for Design Education Researchers, 14-17 May 2013.</h3>
@@ -59,7 +81,7 @@
 		</p>
 	</div>
 	<div id="9788299793223" class="utgivelse contain">
-		<a href="img/emneord-456x600.jpg" title="Coverbilde for: Emneordskatalogisering: innholdsanalyse, emnerepresentasjon og lagring">
+		<a href="utgivelse.php?isbn=9788299793223" title="Coverbilde for: Emneordskatalogisering: innholdsanalyse, emnerepresentasjon og lagring">
 			<img alt="Coverbilde for Emneordskatalogisering: innholdsanalyse, emnerepresentasjon og lagring" src="img/emneord-456x600.jpg" class="cover" height="200" width="152">
 		</a>
 		<h3 class="booktitle">Emneordskatalogisering: innholdsanalyse, emnerepresentasjon og lagring</h3>
@@ -77,7 +99,7 @@
 		</p>
 	</div>
 	<div id="9788299793292" class="utgivelse contain">
-		<a href="img/formidling-473x600.jpg" title="Coverbilde for: Formidling for framtida: tanker om arkiv">
+		<a href="utgivelse.php?isbn=9788299793292" title="Coverbilde for: Formidling for framtida: tanker om arkiv">
 			<img alt="Coverbilde for Formidling for framtida: tanker om arkiv" src="img/formidling-473x600.jpg" class="cover" height="200" width="157">
 		</a>
 		<h3 class="booktitle">Formidling for framtida: tanker om arkiv</h3>
@@ -95,7 +117,7 @@
 		</p>
 	</div>
 	<div id="9788299793247" class="utgivelse contain">
-		<a href="img/fotnote-473x600.jpg" title="Coverbilde for: Fotnote eller tekst? Arkiv og arkivarar i det 21. hundre&aring;ret.">
+		<a href="utgivelse.php?isbn=9788299793247" title="Coverbilde for: Fotnote eller tekst? Arkiv og arkivarar i det 21. hundre&aring;ret.">
 			<img alt="Coverbilde for Fotnote eller tekst? Arkiv og arkivarar i det 21. hundre&aring;ret." src="img/fotnote-473x600.jpg" class="cover" height="200" width="157">
 		</a>
 		<h3 class="booktitle">Fotnote eller tekst? Arkiv og arkivarar i det 21. hundre&aring;ret.</h3>
@@ -113,7 +135,7 @@
 		</p>
 	</div>
 	<div id="9788299793278" class="utgivelse contain">
-		<a href="img/skyggetanter-503x600.jpg" title="Coverbilde for: Fra skyggetanter til yrkeskvinner: livet, tiden og menneskene ved Den kvinnelige industriskolen fra 1875 til 1950">
+		<a href="utgivelse.php?isbn=9788299793278" title="Coverbilde for: Fra skyggetanter til yrkeskvinner: livet, tiden og menneskene ved Den kvinnelige industriskolen fra 1875 til 1950">
 			<img alt="Coverbilde for Fra skyggetanter til yrkeskvinner: livet, tiden og menneskene ved Den kvinnelige industriskolen fra 1875 til 1950" src="img/skyggetanter-503x600.jpg" class="cover" height="200" width="167">
 		</a>
 		<h3 class="booktitle">Fra skyggetanter til yrkeskvinner: livet, tiden og menneskene ved Den kvinnelige industriskolen fra 1875 til 1950</h3>
@@ -131,7 +153,7 @@
 		</p>
 	</div>
 	<div id="9788299793230" class="utgivelse contain">
-		<a href="img/hva_arkivene_skjulte-461x600.jpg" title="Coverbilde for: Hva arkivene skjulte? En unders&oslash;kelse av kvensk og samisk i offentlige arkiver i Kistrand (Porsanger) og Nordreisa 1865-1948.">
+		<a href="utgivelse.php?isbn=9788299793230" title="Coverbilde for: Hva arkivene skjulte? En unders&oslash;kelse av kvensk og samisk i offentlige arkiver i Kistrand (Porsanger) og Nordreisa 1865-1948.">
 			<img alt="Coverbilde for Hva arkivene skjulte? En unders&oslash;kelse av kvensk og samisk i offentlige arkiver i Kistrand (Porsanger) og Nordreisa 1865-1948." src="img/hva_arkivene_skjulte-461x600.jpg" class="cover" height="200" width="153">
 		</a>
 		<h3 class="booktitle">Hva arkivene skjulte? En unders&oslash;kelse av kvensk og samisk i offentlige arkiver i Kistrand (Porsanger) og Nordreisa 1865-1948.</h3>
@@ -149,7 +171,7 @@
 		</p>
 	</div>
 	<div id="9788293298076" class="utgivelse contain">
-		<a href="img/froysnes-450x600.jpg" title="Coverbilde for: H&oslash;gre utdanning 1970-1994 med vekt p&aring; h&oslash;gskolevirksomheten i Oslo og Akershus.">
+		<a href="utgivelse.php?isbn=9788293298076" title="Coverbilde for: H&oslash;gre utdanning 1970-1994 med vekt p&aring; h&oslash;gskolevirksomheten i Oslo og Akershus.">
 			<img alt="Coverbilde for H&oslash;gre utdanning 1970-1994 med vekt p&aring; h&oslash;gskolevirksomheten i Oslo og Akershus." src="img/froysnes-450x600.jpg" class="cover" height="200" width="150">
 		</a>
 		<h3 class="booktitle">H&oslash;gre utdanning 1970-1994 med vekt p&aring; h&oslash;gskolevirksomheten i Oslo og Akershus.</h3>
@@ -167,7 +189,7 @@
 		</p>
 	</div>
 	<div id="9788299793254" class="utgivelse contain">
-		<a href="img/krysspeilinger-450x600.png" title="Coverbilde for: Krysspeilinger. Perspektiver p&aring; bibliotek og informasjonsvitenskap.">
+		<a href="utgivelse.php?isbn=9788299793254" title="Coverbilde for: Krysspeilinger. Perspektiver p&aring; bibliotek og informasjonsvitenskap.">
 			<img alt="Coverbilde for Krysspeilinger. Perspektiver p&aring; bibliotek og informasjonsvitenskap." src="img/krysspeilinger-450x600.png" class="cover" height="200" width="153">
 		</a>
 		<h3 class="booktitle">Krysspeilinger. Perspektiver p&aring; bibliotek og informasjonsvitenskap.</h3>
@@ -185,7 +207,7 @@
 		</p>
 	</div>
 	<div id="9788299793261" class="utgivelse contain">
-		<a href="img/l&aelig;rerutdanning-460x600.jpg" title="Coverbilde for: L&aelig;rerutdanning i liv og l&aelig;re gjennom 50 &aring;r">
+		<a href="utgivelse.php?isbn=9788299793261" title="Coverbilde for: L&aelig;rerutdanning i liv og l&aelig;re gjennom 50 &aring;r">
 			<img alt="Coverbilde for L&aelig;rerutdanning i liv og l&aelig;re gjennom 50 &aring;r" src="img/l&aelig;rerutdanning-460x600.jpg" class="cover" height="200" width="153">
 		</a>
 		<h3 class="booktitle">L&aelig;rerutdanning i liv og l&aelig;re gjennom 50 &aring;r</h3>
@@ -204,7 +226,7 @@
 	</div>
 
 	<div id="9788293298113" class="utgivelse contain">
-		<a href="img/cover-9788293298113-NLIE-425x600.jpg" title="Coverbilde for: Ny praksis &ndash; ny kunnskap: Om utviklingsarbeid som sjanger">
+		<a href="utgivelse.php?isbn=9788293298113" title="Coverbilde for: Ny praksis &ndash; ny kunnskap: Om utviklingsarbeid som sjanger">
 			<img alt="Coverbilde for Norsk l&aelig;rarutdanning i etterkrigstida. Ei utvikling i spenning mellom tradisjon og fornying." src="img/cover-9788293298113-NLIE-425x600.jpg" class="cover" height="200" width="158">
 		</a>
 		<h3 class="booktitle">Norsk lærarutdanning i etterkrigstida. Ei utvikling i spenning mellom tradisjon og fornying.</h3>
@@ -221,7 +243,7 @@
 	</div>
 
 	<div id="9788293298069" class="utgivelse contain">
-		<a href="img/ny_praksis-475x600.jpg" title="Coverbilde for: Ny praksis &ndash; ny kunnskap: Om utviklingsarbeid som sjanger">
+		<a href="utgivelse.php?isbn=9788293298069" title="Coverbilde for: Ny praksis &ndash; ny kunnskap: Om utviklingsarbeid som sjanger">
 			<img alt="Coverbilde for Ny praksis &ndash; ny kunnskap: Om utviklingsarbeid som sjanger" src="img/ny_praksis-475x600.jpg" class="cover" height="200" width="158">
 		</a>
 		<h3 class="booktitle">Ny praksis &ndash; ny kunnskap: Om utviklingsarbeid som sjanger</h3>
@@ -239,7 +261,7 @@
 		</p>
 	</div>
 	<div id="9788293298120" class="utgivelse contain">
-		<a href="img/samle-formidle-dele-422x600.jpg" title="Coverbilde for: Samle, formidle, dele. 75 år med bibliotekarutdanning">
+		<a href="utgivelse.php?isbn=9788293298120" title="Coverbilde for: Samle, formidle, dele. 75 år med bibliotekarutdanning">
 			<img alt="Coverbilde for Samle, formidle, dele. 75 år med bibliotekarutdanning" src="img/samle-formidle-dele-422x600.jpg" class="cover" height="200" width="141">
 		</a>
 		<h3 class="booktitle">Samle, formidle, dele. 75 år med bibliotekarutdanning</h3>
@@ -256,7 +278,7 @@
 		</p>
 	</div>
 	<div id="9788299793216" class="utgivelse contain">
-		<a href="img/undervegs-453x600.jpg" title="Coverbilde for: Undervegs. Festskrift til Egil Nys&aelig;ter">
+		<a href="utgivelse.php?isbn=9788299793216" title="Coverbilde for: Undervegs. Festskrift til Egil Nys&aelig;ter">
 			<img alt="Coverbilde for Undervegs. Festskrift til Egil Nys&aelig;ter" src="img/undervegs-453x600.jpg" class="cover" height="200" width="151">
 		</a>
 		<h3 class="booktitle">Undervegs. Festskrift til Egil Nys&aelig;ter</h3>
@@ -275,7 +297,7 @@
 	</div>
 	
 	<div id="9788293298090" class="utgivelse contain">
-		<a href="img/cover-utvikling_fra_interessegruppe_akademisk_utdanning-466x600.jpg" title="Coverbilde for: Undervegs. Festskrift til Egil Nys&aelig;ter">
+		<a href="utgivelse.php?isbn=9788293298090" title="Coverbilde for: Undervegs. Festskrift til Egil Nys&aelig;ter">
 			<img alt="Coverbilde. Kullskisse som viser en pasient som ligger på en benk og får massert ansiktsmuskler av en fysioterapeut." src="img/cover-utvikling_fra_interessegruppe_akademisk_utdanning-466x600.jpg" class="cover" height="200" width="151">
 		</a>
 		<h3 class="booktitle">Wilhelm Reich og Trygve Braatøy og Aadel Bülow-Hansen-tradisjonen i Norge. Utviklingen fra interessegruppe til akademisk utdanning i årene 1956-2006.</h3>
