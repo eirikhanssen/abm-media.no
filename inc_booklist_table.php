@@ -59,12 +59,20 @@
 				<td>Kirsten R&oslash;vig H&aring;berg</td>
 				<td class="price">300,&ndash;</td>
 			</tr>
+
+			<tr>
+				<td><a href="#9788299793230">Han e søkkane og! Et festskrift til byarkivar Arne Skivenes</a></td>
+				<td>Ragnhild Botheim, Ine Merete Baadsvik, Gudmund Valderhaug og Aslal Wiig (red)</td>
+				<td class="price">390,&ndash;</td>
+			</tr>
+
 			<tr>
 				<td><a href="#9788299793230">Hva arkivene skjulte? En unders&oslash;kelse av kvensk og samisk i offentlige arkiver i Kistrand (Porsanger) og Nordreisa 1865-1948.</a>
 				</td>
 				<td>Kaisa Johanna Maliniemi</td>
 				<td class="price">275,&ndash;</td>
 			</tr>
+			
 			<tr>
 				<td><a href="#9788293298076">H&oslash;gre utdanning 1970-1994 med vekt p&aring; h&oslash;gskolevirksomheten i Oslo og Akershus.</a>
 				</td>

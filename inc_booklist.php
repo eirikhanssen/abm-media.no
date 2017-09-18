@@ -152,6 +152,30 @@
             </a>
 		</p>
 	</div>
+	
+
+	<div id="9788293298151" class="utgivelse contain">
+		<a href="utgivelse.php?isbn=9788293298151" title="Coverbilde for: Han e søkkane og! Et festskrift til byarkivar Arne Skivenes">
+			<img alt="Coverbilde for Han e søkkane og! Et festskrift til byarkivar Arne Skivenes" src="img/9788293298151.jpg" class="cover" height="200" width="153">
+		</a>
+		<h3 class="booktitle">Han e søkkane og! Et festskrift til byarkivar Arne Skivenes</h3>
+		<ul class="bookmeta">
+			<li class="authors">Ragnhild Botheim, Ine Merete Baadsvik, Gudmund Valderhaug og Aslal Wiig (red)</li>
+			<li>Utgivelses&aring;r: 2017</li>
+			<li class="keywords">Emneord: bibliotek, informasjon, offentlig</li>
+			<li>ISBN: 9788293298151</li>
+			<li class="price">390,&ndash;</li>
+		</ul>
+		<p class="more"><a href="utgivelse.php?isbn=9788293298151">
+                Vis mer informasjon om denne utgivelsen ...
+            </a>
+		</p>
+	</div>
+	
+
+
+
+
 	<div id="9788299793230" class="utgivelse contain">
 		<a href="utgivelse.php?isbn=9788299793230" title="Coverbilde for: Hva arkivene skjulte? En unders&oslash;kelse av kvensk og samisk i offentlige arkiver i Kistrand (Porsanger) og Nordreisa 1865-1948.">
 			<img alt="Coverbilde for Hva arkivene skjulte? En unders&oslash;kelse av kvensk og samisk i offentlige arkiver i Kistrand (Porsanger) og Nordreisa 1865-1948." src="img/hva_arkivene_skjulte-461x600.jpg" class="cover" height="200" width="153">
@@ -170,6 +194,8 @@
             </a>
 		</p>
 	</div>
+	
+
 	<div id="9788293298076" class="utgivelse contain">
 		<a href="utgivelse.php?isbn=9788293298076" title="Coverbilde for: H&oslash;gre utdanning 1970-1994 med vekt p&aring; h&oslash;gskolevirksomheten i Oslo og Akershus.">
 			<img alt="Coverbilde for H&oslash;gre utdanning 1970-1994 med vekt p&aring; h&oslash;gskolevirksomheten i Oslo og Akershus." src="img/froysnes-450x600.jpg" class="cover" height="200" width="150">
