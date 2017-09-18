@@ -61,7 +61,7 @@
 			</tr>
 
 			<tr>
-				<td><a href="#9788299793230">Han e søkkane og! Et festskrift til byarkivar Arne Skivenes</a></td>
+				<td><a href="#9788293298151">Han e søkkane og! Et festskrift til byarkivar Arne Skivenes</a></td>
 				<td>Ragnhild Botheim, Ine Merete Baadsvik, Gudmund Valderhaug og Aslal Wiig (red)</td>
 				<td class="price">390,&ndash;</td>
 			</tr>
