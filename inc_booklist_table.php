@@ -1,6 +1,9 @@
 <div id="booklist">
 	<h2>Samlet oversikt</h2>
-	<!--<p>Trykk p&aring; tabelloverskriftene for &aring; sortere tabellen.</p>-->
+	<ul>
+		<li>Trykk på tabelloverskriftene for å sortere.</li>
+		<li>Lenkene tar deg ned på siden</li>
+	</ul>
 	<table id="booklistTBL" class="tablesorter">
 		<thead data-order="1">
 			<tr>

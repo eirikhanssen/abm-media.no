@@ -149,6 +149,7 @@ a:active {text-decoration: underline;}
 }
 #books {
     margin: 0;
+    margin-top: 1em;
 }
 
 #booklist tr:hover td {
