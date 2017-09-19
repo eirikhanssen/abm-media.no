@@ -5,7 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Utgivelser | ABM-media AS</title>
     <link rel="stylesheet" href="abm.css?v=4" type="text/css">
-</head>
+    <script src="jquery-1.12.4.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="jquery.tablesorter.min.js" type="text/javascript" charset="utf-8"></script>
+    </head>
 
 <body>
 <?php include 'inc_header.php'; ?>
@@ -19,6 +21,15 @@
         <?php include 'inc_booklist.php';?>
     </main>
 <?php include 'inc_footer.php'; ?>
+<script>
+$(document).ready(function() { $("#booklistTBL").tablesorter(); } ); 
+$("#booklistTBL th").keyup(function(e){
+    var code = e.keyCode;
+    if(code == 13) {
+        e.target.click();
+    }
+});
+</script>
 </body>
 
 </html>

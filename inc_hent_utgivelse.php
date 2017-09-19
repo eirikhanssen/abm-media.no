@@ -1,6 +1,6 @@
 <?php 
     $isbn = ($_GET["isbn"]);
     $utgivelse = "utgivelser/isbn" . $isbn . ".php";
-    echo "<a href=\"utgivelser.php#$isbn\">Tilbake til utgivelsesoversikten &#8230;</a>";
+    echo "<a class=\"tilbake\" href=\"utgivelser.php#$isbn\">Tilbake til utgivelsesoversikten.</a>";
     include $utgivelse;
 ?>
