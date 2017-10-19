@@ -90,6 +90,11 @@
 				<td class="price">50</td>
 			</tr>
 			<tr>
+				<td><a href="#9788293298106">Høgre utdanning 1994-2011 med vekt på virksomheten ved Høgskolen i Oslo (HiO)</a></td>
+				<td>Åsulv Frøysnes</td>
+				<td class="price">100</td>
+			</tr>
+			<tr>
 				<td><a href="#9788299793254">Krysspeilinger. Perspektiver på bibliotek og informasjonsvitenskap.</a>
 				</td>
 				<td>Ragnar Audunsson (Red.)</td>

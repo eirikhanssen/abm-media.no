@@ -232,6 +232,22 @@
             </a>
 		</p>
 	</div>
+
+	<div id="9788293298106" class="utgivelse contain">
+		<a href="utgivelse.php?isbn=9788293298106" title="les mer om utgivelsen: Høgre utdanning 1994-2011 med vekt på virksomheten ved Høgskolen i Oslo (HiO)">
+			<img alt="Omslag: akvarell av små fiolette blomster med grønne blader." src="img/9788293298106.jpg" class="cover" height="200" width="153">
+		</a>
+		<h3 class="booktitle">Høgre utdanning 1994-2011 med vekt på virksomheten ved Høgskolen i Oslo (HiO)</h3>
+		<ul class="bookmeta">
+			<li class="authors">Åsulv Frøysnes</li>
+			<li>Utgivelsesår: 2014</li>
+			<li class="keywords">Emneord: høgskolen, oslo, akershus, undervisning, historie</li>
+			<li>ISBN: 9788293298106</li>
+			<li class="price">100</li>
+		</ul>
+		<p class="more"><a href="utgivelse.php?isbn=9788293298106">Vis mer informasjon om denne utgivelsen ...</a></p>
+	</div>
+
 	<div id="9788299793254" class="utgivelse contain">
 		<a href="utgivelse.php?isbn=9788299793254" title="Coverbilde for: Krysspeilinger. Perspektiver på bibliotek og informasjonsvitenskap.">
 			<img alt="Coverbilde for Krysspeilinger. Perspektiver på bibliotek og informasjonsvitenskap." src="img/krysspeilinger-450x600.png" class="cover" height="200" width="153">
