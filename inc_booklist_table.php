@@ -28,7 +28,7 @@
 			<tr>
 				<td><a href="#9788293298144">Bibliotek og offentlig informasjon</a>
 				</td>
-				<td>øivind Frisvold</td>
+				<td>Øivind Frisvold</td>
 				<td class="price">100</td>
 			</tr>
 			
@@ -86,7 +86,7 @@
 			<tr>
 				<td><a href="#9788293298076">Høgre utdanning 1970-1994 med vekt på høgskolevirksomheten i Oslo og Akershus.</a>
 				</td>
-				<td>åsulv Frøysnes</td>
+				<td>Åsulv Frøysnes</td>
 				<td class="price">50</td>
 			</tr>
 			<tr>
@@ -103,13 +103,13 @@
 			<tr>
 				<td><a href="#9788299793261">Lærerutdanning i liv og lære gjennom 50 år</a>
 				</td>
-				<td>Per østerud</td>
+				<td>Per Østerud</td>
 				<td class="price">300</td>
 			</tr>
 			<tr>
 				<td><a href="#9788293298113">Norsk lærarutdanning i etterkrigstida. Ei utvikling i spenning mellom tradisjon og fornying.</a>
 				</td>
-				<td>Per østerud, Sigmund Sunnanå og åsulv Frøysnes</td>
+				<td>Per Østerud, Sigmund Sunnanå og Åsulv Frøysnes</td>
 				<td class="price">200</td>
 			</tr>
 			<tr>
