@@ -9,13 +9,13 @@
     <ul class="bookmeta">
         <li><strong>ISBN: </strong>978-82-93298-15-1</li>
         <li class="keywords"><strong>Emneord: </strong>bibliotek, informasjon, offentlig</li>
-        <li><strong>Spr&aring;k: Norsk (bokmål/nynorsk)</strong>
+        <li><strong>Språk: Norsk (bokmål/nynorsk)</strong>
         </li>
         <li><strong>Utgitt: </strong>2017</li>
         <li><strong>Forlag: </strong> ABM-media</li>
         <li><strong>Utgave: </strong>1. utgave</li>
         <li><strong>Ant sider: </strong>456</li>
-        <li><strong>Pris: </strong>390,&ndash;</li>
+        <li class="price"><strong>Pris: </strong>390</li>
     </ul>
     <h3>Sammendrag</h3>
     <p>Med en fot i fortiden og en fot i fremtiden har byarkivar Arne Skivenes bygget opp Bergen Byarkiv til å bli en av landets fremste arkivinstitusjoner, - en institusjon som balanserer godt mellom det gamle og det nye. Den 20. juli 2017 fyller Arne 70 år og i den anledning har vi gleden av å gi ut festskriftet <em>«Han e’ søkkane go’!» Et festskrift til byarkivar Arne Skivenes.</em></p>

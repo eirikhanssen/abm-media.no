@@ -9,12 +9,12 @@
     <ul class="bookmeta">
         <li><strong>ISBN: </strong>9788293298168</li>
         <li class="keywords"><strong>Emneord: </strong>militær, likestilling, kvinner, jenter, equality, women, armed forces</li>
-        <li><strong>Spr&aring;k: </strong>Engelsk</li>
+        <li><strong>Språk: </strong>Engelsk</li>
         <li><strong>Utgitt: </strong>2017</li>
         <li><strong>Forlag: </strong>ABM-media</li>
         <li><strong>Utgave: </strong>1. utg.</li>
         <li><strong>Ant sider: </strong>208</li>
-        <li><strong>Pris: </strong>210,&ndash;</li>
+        <li class="price"><strong>Pris: </strong>210</li>
     </ul>
     <h3>Sammendrag</h3>
     <p>“…it’s a most hopeful book.  A book that suggests that when given the opportunity, women and men can work and live together as equals.  For decades among the most gender equal nations in the world, Norway has brought a new meaning to gender equality in what had been a bastion of gender inequality: the military.  Women and men join, train and live together in what Ellingsen and Lilleaas call “mixed rooms,” barracks that do not differentiate by gender. This startling finding, the basis for this book, is decidedly optimistic.  For the experience of the Norwegian military shows that, with careful guidance and uncompromising leadership, women and men can be equal in all aspects of life.  And, it turns out, both the women and the men are better off for it.”</p>

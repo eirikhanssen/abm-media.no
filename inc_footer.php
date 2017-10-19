@@ -2,7 +2,7 @@
     <div class="column">
         <h4>Kontaktinformasjon</h4>
         <p>ABM-media AS
-            <br/>c/o H&oslash;gskolen i Oslo og Akershus &ndash; L&aelig;ringssenter og bibliotek
+            <br/>c/o Høgskolen i Oslo og Akershus – Læringssenter og bibliotek
             <br/>Postboks 4 St Olavs plass
             <br/>0130 Oslo
             <br/>

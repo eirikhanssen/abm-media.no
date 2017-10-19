@@ -24,7 +24,7 @@
     </main>
     
 <?php include 'inc_footer.php'; ?>
-<p class="visits">Antall bes&oslash;k:
+<p class="visits">Antall besøk:
 <script type="text/javascript" src="http://www.dittnettsted.com/teller/getcount.php?id=f4cea91095"></script>
     </p>
 </body>

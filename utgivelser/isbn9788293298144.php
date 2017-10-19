@@ -9,13 +9,13 @@
     <ul class="bookmeta">
         <li><strong>ISBN: </strong>9788293298144</li>
         <li class="keywords"><strong>Emneord: </strong>bibliotek, informasjon, offentlig</li>
-        <li><strong>Spr&aring;k: Norsk (bokmål/nynorsk)</strong>
+        <li><strong>Språk: Norsk (bokmål/nynorsk)</strong>
         </li>
         <li><strong>Utgitt: </strong>2017</li>
         <li><strong>Forlag: </strong> ABM-media</li>
         <li><strong>Utgave: </strong>19.0</li>
         <li><strong>Ant sider: </strong>98</li>
-        <li><strong>Pris: </strong>100,&ndash;</li>
+        <li class="price"><strong>Pris: </strong>100</li>
     </ul>
     <h3>Sammendrag</h3>
     <h4>Finner vi ikke ‘alt’ på nettet da?</h4>

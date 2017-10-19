@@ -26,7 +26,7 @@
 		</a>
 		<h3 class="booktitle">Biblioteklover og annen statlig bibliotekpolitikk i Norden</h3>
 		<ul class="bookmeta">
-			<li class="authors">Asbj&oslash;rn Langeland</li>
+			<li class="authors">Asbjørn Langeland</li>
 			<li><strong>Utgivelsesår:</strong> 2009
 			</li>
 			<li class="keywords"><strong>Emneord:</strong> Bibliotek, Biblioteklover, Bibliotekpolitikk, Lovgivning, Norden, Sammenliknende politikk</li>
@@ -46,7 +46,7 @@
 		</a>
 		<h3 class="booktitle">Bibliotek og offentlig informasjon</h3>
 		<ul class="bookmeta">
-			<li class="authors">&Oslash;ivind Frisvold</li>
+			<li class="authors">Øivind Frisvold</li>
 			<li><strong>Utgivelsesår:</strong> 2017
 			</li>
 			<li class="keywords"><strong>Emneord:</strong> bibliotek, informasjon, offentlig</li>
@@ -66,13 +66,13 @@
 		</a>
 		<h3 class="booktitle">DRS Cumulus Oslo 2013. Design Learning for Tomorrow. Design Education from kindergarten to PhD. Proceedings from the 2nd International Conference for Design Education Researchers, 14-17 May 2013.</h3>
 		<ul class="bookmeta">
-			<li class="authors">Janne Beate Reitan, Peter Loyd, Erik Bohemia, Liv Merete Nielsen, Ingvild Digranes og Eva Lutn&aelig;s (Red.)</li>
+			<li class="authors">Janne Beate Reitan, Peter Loyd, Erik Bohemia, Liv Merete Nielsen, Ingvild Digranes og Eva Lutnæs (Red.)</li>
 			<li><strong>Utgivelsesår:</strong> 2013
 			</li>
 			<li class="keywords"><strong>Emneord:</strong> Design, Design Education, Designed Solutions, Decision making</li>
 			<li><strong>ISBN:</strong> 9788293298007</li>
 			<li class="price"><strong>Pris: </strong>2000</li>
-			<li><em><strong>NB: </strong>Vol 1-4 (ISBN: 9788293298007) inneholder 165 artikler p&aring; til sammen 2330 sider. Pris per vol: 500 kr</em>
+			<li><em><strong>NB: </strong>Vol 1-4 (ISBN: 9788293298007) inneholder 165 artikler på til sammen 2330 sider. Pris per vol: 500 kr</em>
 			</li>
 		</ul>
 		<p class="more"><a href="utgivelse.php?isbn=9788293298007">
@@ -86,7 +86,7 @@
 		</a>
 		<h3 class="booktitle">Emneordskatalogisering: innholdsanalyse, emnerepresentasjon og lagring</h3>
 		<ul class="bookmeta">
-			<li class="authors">Ellen Hjorts&aelig;ter</li>
+			<li class="authors">Ellen Hjortsæter</li>
 			<li><strong>Utgivelsesår:</strong> 2009
 			</li>
 			<li class="keywords"><strong>Emneord:</strong> Abstracting and Indexing as Topic, Emneindeksering, Emneord, Emneordskatalogisering, Indeksering, Katalogisering, Veiledninger</li>
@@ -107,7 +107,7 @@
 			<li class="authors">Hilde Lange og Ulrike Spring (Red.)</li>
 			<li><strong>Utgivelsesår:</strong> 2013
 			</li>
-			<li class="keywords"><strong>Emneord:</strong> Arkivl&aelig;re, Arkivvesen, Arkivkunnskap, Dokumenter, Arkivformidling, Formidling, Arkiver</li>
+			<li class="keywords"><strong>Emneord:</strong> Arkivlære, Arkivvesen, Arkivkunnskap, Dokumenter, Arkivformidling, Formidling, Arkiver</li>
 			<li><strong>ISBN:</strong> 9788299793292</li>
 			<li class="price"><strong>Pris: </strong>275</li>
 		</ul>
@@ -117,10 +117,10 @@
 		</p>
 	</div>
 	<div id="9788299793247" class="utgivelse contain">
-		<a href="utgivelse.php?isbn=9788299793247" title="Coverbilde for: Fotnote eller tekst? Arkiv og arkivarar i det 21. hundre&aring;ret.">
-			<img alt="Coverbilde for Fotnote eller tekst? Arkiv og arkivarar i det 21. hundre&aring;ret." src="img/fotnote-473x600.jpg" class="cover" height="200" width="157">
+		<a href="utgivelse.php?isbn=9788299793247" title="Coverbilde for: Fotnote eller tekst? Arkiv og arkivarar i det 21. hundreåret.">
+			<img alt="Coverbilde for Fotnote eller tekst? Arkiv og arkivarar i det 21. hundreåret." src="img/fotnote-473x600.jpg" class="cover" height="200" width="157">
 		</a>
-		<h3 class="booktitle">Fotnote eller tekst? Arkiv og arkivarar i det 21. hundre&aring;ret.</h3>
+		<h3 class="booktitle">Fotnote eller tekst? Arkiv og arkivarar i det 21. hundreåret.</h3>
 		<ul class="bookmeta">
 			<li class="authors">Gudmund Valderhaug</li>
 			<li><strong>Utgivelsesår:</strong> 2011
@@ -140,10 +140,10 @@
 		</a>
 		<h3 class="booktitle">Fra skyggetanter til yrkeskvinner: livet, tiden og menneskene ved Den kvinnelige industriskolen fra 1875 til 1950</h3>
 		<ul class="bookmeta">
-			<li class="authors">Kirsten R&oslash;vig H&aring;berg</li>
+			<li class="authors">Kirsten Røvig Håberg</li>
 			<li><strong>Utgivelsesår:</strong> 2012
 			</li>
-			<li class="keywords"><strong>Emneord:</strong> Den Kvindelige Industriskole, Historisk framstilling, Industriskolen, Kunsth&oslash;gskoler - Oslo, Kunstutdanning - Kvinner, L&aelig;rerutdanning, Skolehistorie, Statens kvinnelige industriskole, Tekstilindustri, Tekstilkunst: Undervisning, Utdanning: Norge, Yrkesl&aelig;rer</li>
+			<li class="keywords"><strong>Emneord:</strong> Den Kvindelige Industriskole, Historisk framstilling, Industriskolen, Kunsthøgskoler - Oslo, Kunstutdanning - Kvinner, Lærerutdanning, Skolehistorie, Statens kvinnelige industriskole, Tekstilindustri, Tekstilkunst: Undervisning, Utdanning: Norge, Yrkeslærer</li>
 			<li><strong>ISBN:</strong> 9788299793278</li>
 			<li class="price"><strong>Pris: </strong>300</li>
 		</ul>
@@ -195,15 +195,15 @@
 
 
 	<div id="9788299793230" class="utgivelse contain">
-		<a href="utgivelse.php?isbn=9788299793230" title="Coverbilde for: Hva arkivene skjulte? En unders&oslash;kelse av kvensk og samisk i offentlige arkiver i Kistrand (Porsanger) og Nordreisa 1865-1948.">
-			<img alt="Coverbilde for Hva arkivene skjulte? En unders&oslash;kelse av kvensk og samisk i offentlige arkiver i Kistrand (Porsanger) og Nordreisa 1865-1948." src="img/hva_arkivene_skjulte-461x600.jpg" class="cover" height="200" width="153">
+		<a href="utgivelse.php?isbn=9788299793230" title="Coverbilde for: Hva arkivene skjulte? En undersøkelse av kvensk og samisk i offentlige arkiver i Kistrand (Porsanger) og Nordreisa 1865-1948.">
+			<img alt="Coverbilde for Hva arkivene skjulte? En undersøkelse av kvensk og samisk i offentlige arkiver i Kistrand (Porsanger) og Nordreisa 1865-1948." src="img/hva_arkivene_skjulte-461x600.jpg" class="cover" height="200" width="153">
 		</a>
-		<h3 class="booktitle">Hva arkivene skjulte? En unders&oslash;kelse av kvensk og samisk i offentlige arkiver i Kistrand (Porsanger) og Nordreisa 1865-1948.</h3>
+		<h3 class="booktitle">Hva arkivene skjulte? En undersøkelse av kvensk og samisk i offentlige arkiver i Kistrand (Porsanger) og Nordreisa 1865-1948.</h3>
 		<ul class="bookmeta">
 			<li class="authors">Kaisa Johanna Maliniemi</li>
 			<li><strong>Utgivelsesår:</strong> 2010
 			</li>
-			<li class="keywords"><strong>Emneord:</strong> Spr&aring;kpolitikk, Arkiver, Kildeskrifter, Kirkeb&oslash;ker, Kistrand - Historie, Nordreisa - Historie, Kvener, Samer, L&aelig;stadianismen - Nord-Troms, Arkivkunnskap, Minoritetspolitikk - Porsanger, Minoritetspolitikk - Nordreisa, Nordreisa, Lokalhistorie, Kvensk spr&aring;k, Samisk spr&aring;k, Finnmark, Porsanger, lokalsamlinger</li>
+			<li class="keywords"><strong>Emneord:</strong> Språkpolitikk, Arkiver, Kildeskrifter, Kirkebøker, Kistrand - Historie, Nordreisa - Historie, Kvener, Samer, Læstadianismen - Nord-Troms, Arkivkunnskap, Minoritetspolitikk - Porsanger, Minoritetspolitikk - Nordreisa, Nordreisa, Lokalhistorie, Kvensk språk, Samisk språk, Finnmark, Porsanger, lokalsamlinger</li>
 			<li><strong>ISBN:</strong> 9788299793230</li>
 			<li class="price"><strong>Pris: </strong>275</li>
 		</ul>
@@ -215,15 +215,15 @@
 	
 
 	<div id="9788293298076" class="utgivelse contain">
-		<a href="utgivelse.php?isbn=9788293298076" title="Coverbilde for: H&oslash;gre utdanning 1970-1994 med vekt p&aring; h&oslash;gskolevirksomheten i Oslo og Akershus.">
-			<img alt="Coverbilde for H&oslash;gre utdanning 1970-1994 med vekt p&aring; h&oslash;gskolevirksomheten i Oslo og Akershus." src="img/froysnes-450x600.jpg" class="cover" height="200" width="150">
+		<a href="utgivelse.php?isbn=9788293298076" title="Coverbilde for: Høgre utdanning 1970-1994 med vekt på høgskolevirksomheten i Oslo og Akershus.">
+			<img alt="Coverbilde for Høgre utdanning 1970-1994 med vekt på høgskolevirksomheten i Oslo og Akershus." src="img/froysnes-450x600.jpg" class="cover" height="200" width="150">
 		</a>
-		<h3 class="booktitle">H&oslash;gre utdanning 1970-1994 med vekt p&aring; h&oslash;gskolevirksomheten i Oslo og Akershus.</h3>
+		<h3 class="booktitle">Høgre utdanning 1970-1994 med vekt på høgskolevirksomheten i Oslo og Akershus.</h3>
 		<ul class="bookmeta">
-			<li class="authors">&Aring;sulv Fr&oslash;ysnes</li>
+			<li class="authors">Åsulv Frøysnes</li>
 			<li><strong>Utgivelsesår:</strong> 2013
 			</li>
-			<li class="keywords"><strong>Emneord:</strong> h&oslash;gskolen, oslo, akershus, undervisning, historie</li>
+			<li class="keywords"><strong>Emneord:</strong> høgskolen, oslo, akershus, undervisning, historie</li>
 			<li><strong>ISBN:</strong> 9788293298076</li>
 			<li class="price"><strong>Pris: </strong>50</li>
 		</ul>
@@ -233,10 +233,10 @@
 		</p>
 	</div>
 	<div id="9788299793254" class="utgivelse contain">
-		<a href="utgivelse.php?isbn=9788299793254" title="Coverbilde for: Krysspeilinger. Perspektiver p&aring; bibliotek og informasjonsvitenskap.">
-			<img alt="Coverbilde for Krysspeilinger. Perspektiver p&aring; bibliotek og informasjonsvitenskap." src="img/krysspeilinger-450x600.png" class="cover" height="200" width="153">
+		<a href="utgivelse.php?isbn=9788299793254" title="Coverbilde for: Krysspeilinger. Perspektiver på bibliotek og informasjonsvitenskap.">
+			<img alt="Coverbilde for Krysspeilinger. Perspektiver på bibliotek og informasjonsvitenskap." src="img/krysspeilinger-450x600.png" class="cover" height="200" width="153">
 		</a>
-		<h3 class="booktitle">Krysspeilinger. Perspektiver p&aring; bibliotek og informasjonsvitenskap.</h3>
+		<h3 class="booktitle">Krysspeilinger. Perspektiver på bibliotek og informasjonsvitenskap.</h3>
 		<ul class="bookmeta">
 			<li class="authors">Ragnar Audunsson (Red.)</li>
 			<li><strong>Utgivelsesår:</strong> 2012
@@ -251,15 +251,15 @@
 		</p>
 	</div>
 	<div id="9788299793261" class="utgivelse contain">
-		<a href="utgivelse.php?isbn=9788299793261" title="Coverbilde for: L&aelig;rerutdanning i liv og l&aelig;re gjennom 50 &aring;r">
-			<img alt="Coverbilde for L&aelig;rerutdanning i liv og l&aelig;re gjennom 50 &aring;r" src="img/l&aelig;rerutdanning-460x600.jpg" class="cover" height="200" width="153">
+		<a href="utgivelse.php?isbn=9788299793261" title="Coverbilde for: Lærerutdanning i liv og lære gjennom 50 år">
+			<img alt="Coverbilde for Lærerutdanning i liv og lære gjennom 50 år" src="img/lærerutdanning-460x600.jpg" class="cover" height="200" width="153">
 		</a>
-		<h3 class="booktitle">L&aelig;rerutdanning i liv og l&aelig;re gjennom 50 &aring;r</h3>
+		<h3 class="booktitle">Lærerutdanning i liv og lære gjennom 50 år</h3>
 		<ul class="bookmeta">
-			<li class="authors">Per &Oslash;sterud</li>
+			<li class="authors">Per Østerud</li>
 			<li><strong>Utgivelsesår:</strong> 2012
 			</li>
-			<li class="keywords"><strong>Emneord:</strong> Pedagogikk, Pedagogikkutdanning, L&aelig;rerutdanning, L&aelig;rere, Utdanning, Historie, Norge, h&oslash;yere utdanning</li>
+			<li class="keywords"><strong>Emneord:</strong> Pedagogikk, Pedagogikkutdanning, Lærerutdanning, Lærere, Utdanning, Historie, Norge, høyere utdanning</li>
 			<li><strong>ISBN:</strong> 9788299793261</li>
 			<li class="price"><strong>Pris: </strong>275</li>
 		</ul>
@@ -270,15 +270,15 @@
 	</div>
 
 	<div id="9788293298113" class="utgivelse contain">
-		<a href="utgivelse.php?isbn=9788293298113" title="Coverbilde for: Ny praksis &ndash; ny kunnskap: Om utviklingsarbeid som sjanger">
-			<img alt="Coverbilde for Norsk l&aelig;rarutdanning i etterkrigstida. Ei utvikling i spenning mellom tradisjon og fornying." src="img/cover-9788293298113-NLIE-425x600.jpg" class="cover" height="200" width="158">
+		<a href="utgivelse.php?isbn=9788293298113" title="Coverbilde for: Ny praksis – ny kunnskap: Om utviklingsarbeid som sjanger">
+			<img alt="Coverbilde for Norsk lærarutdanning i etterkrigstida. Ei utvikling i spenning mellom tradisjon og fornying." src="img/cover-9788293298113-NLIE-425x600.jpg" class="cover" height="200" width="158">
 		</a>
 		<h3 class="booktitle">Norsk lærarutdanning i etterkrigstida. Ei utvikling i spenning mellom tradisjon og fornying.</h3>
 		<ul class="bookmeta">
-			<li class="authors">Per &Oslash;sterud, Sigmund Sunnan&aring; og &Aring;sulv Fr&oslash;ysnes</li>
+			<li class="authors">Per Østerud, Sigmund Sunnanå og Åsulv Frøysnes</li>
 			<li><strong>Utgivelsesår:</strong> 2015
 			</li>
-			<li class="keywords"><strong>Emneord:</strong> l&aelig;rarutdanning, l&aelig;rerutdanning, grunnskole, undervisning, historie</li>
+			<li class="keywords"><strong>Emneord:</strong> lærarutdanning, lærerutdanning, grunnskole, undervisning, historie</li>
 			<li><strong>ISBN:</strong> 9788293298113</li>
 			<li class="price"><strong>Pris: </strong>200</li>
 		</ul>
@@ -287,15 +287,15 @@
 	</div>
 
 	<div id="9788293298069" class="utgivelse contain">
-		<a href="utgivelse.php?isbn=9788293298069" title="Coverbilde for: Ny praksis &ndash; ny kunnskap: Om utviklingsarbeid som sjanger">
-			<img alt="Coverbilde for Ny praksis &ndash; ny kunnskap: Om utviklingsarbeid som sjanger" src="img/ny_praksis-475x600.jpg" class="cover" height="200" width="158">
+		<a href="utgivelse.php?isbn=9788293298069" title="Coverbilde for: Ny praksis – ny kunnskap: Om utviklingsarbeid som sjanger">
+			<img alt="Coverbilde for Ny praksis – ny kunnskap: Om utviklingsarbeid som sjanger" src="img/ny_praksis-475x600.jpg" class="cover" height="200" width="158">
 		</a>
-		<h3 class="booktitle">Ny praksis &ndash; ny kunnskap: Om utviklingsarbeid som sjanger</h3>
+		<h3 class="booktitle">Ny praksis – ny kunnskap: Om utviklingsarbeid som sjanger</h3>
 		<ul class="bookmeta">
-			<li class="authors">Gerd Bj&oslash;rke, Harald Jarning og Olav Eikeland (Red.)</li>
+			<li class="authors">Gerd Bjørke, Harald Jarning og Olav Eikeland (Red.)</li>
 			<li><strong>Utgivelsesår:</strong> 2013
 			</li>
-			<li class="keywords"><strong>Emneord:</strong> H&oslash;yere utdanning, Utviklingsarbeid, praksis, fou-verksemd, innovasjon, utdanning, utdanningspolitikk, historie, l&aelig;rerutdanning, sosialfaglig, barnevern, tverrfaglig, organisasjon, ledelsesfag, ikt, sykepleie, teori, pedagogisk, fou</li>
+			<li class="keywords"><strong>Emneord:</strong> Høyere utdanning, Utviklingsarbeid, praksis, fou-verksemd, innovasjon, utdanning, utdanningspolitikk, historie, lærerutdanning, sosialfaglig, barnevern, tverrfaglig, organisasjon, ledelsesfag, ikt, sykepleie, teori, pedagogisk, fou</li>
 			<li><strong>ISBN:</strong> 9788293298069</li>
 			<li class="price"><strong>Pris: </strong>395</li>
 		</ul>
@@ -322,15 +322,15 @@
 		</p>
 	</div>
 	<div id="9788299793216" class="utgivelse contain">
-		<a href="utgivelse.php?isbn=9788299793216" title="Coverbilde for: Undervegs. Festskrift til Egil Nys&aelig;ter">
-			<img alt="Coverbilde for Undervegs. Festskrift til Egil Nys&aelig;ter" src="img/undervegs-453x600.jpg" class="cover" height="200" width="151">
+		<a href="utgivelse.php?isbn=9788299793216" title="Coverbilde for: Undervegs. Festskrift til Egil Nysæter">
+			<img alt="Coverbilde for Undervegs. Festskrift til Egil Nysæter" src="img/undervegs-453x600.jpg" class="cover" height="200" width="151">
 		</a>
-		<h3 class="booktitle">Undervegs. Festskrift til Egil Nys&aelig;ter</h3>
+		<h3 class="booktitle">Undervegs. Festskrift til Egil Nysæter</h3>
 		<ul class="bookmeta">
 			<li class="authors">Anne Aune og Gudmund Valderhaug (Red.)</li>
 			<li><strong>Utgivelsesår:</strong> 2009
 			</li>
-			<li class="keywords"><strong>Emneord:</strong> Nys&aelig;ter, Egil 1941-, Norge: Lokalhistorie: Kilder, Arkiver, Historie - Hordaland, Festskrift, Historieforskning, Forskning, Lokalhistorie, Norge, Kilder, Kulturminner, Lokalhistorie (Faget), Bibliotek, Arkivvesen, Arkivkunnskap</li>
+			<li class="keywords"><strong>Emneord:</strong> Nysæter, Egil 1941-, Norge: Lokalhistorie: Kilder, Arkiver, Historie - Hordaland, Festskrift, Historieforskning, Forskning, Lokalhistorie, Norge, Kilder, Kulturminner, Lokalhistorie (Faget), Bibliotek, Arkivvesen, Arkivkunnskap</li>
 			<li><strong>ISBN:</strong> 9788299793216</li>
 			<li class="price"><strong>Pris: </strong>300</li>
 		</ul>
@@ -341,7 +341,7 @@
 	</div>
 	
 	<div id="9788293298090" class="utgivelse contain">
-		<a href="utgivelse.php?isbn=9788293298090" title="Coverbilde for: Undervegs. Festskrift til Egil Nys&aelig;ter">
+		<a href="utgivelse.php?isbn=9788293298090" title="Coverbilde for: Undervegs. Festskrift til Egil Nysæter">
 			<img alt="Coverbilde. Kullskisse som viser en pasient som ligger på en benk og får massert ansiktsmuskler av en fysioterapeut." src="img/cover-utvikling_fra_interessegruppe_akademisk_utdanning-466x600.jpg" class="cover" height="200" width="151">
 		</a>
 		<h3 class="booktitle">Wilhelm Reich og Trygve Braatøy og Aadel Bülow-Hansen-tradisjonen i Norge. Utviklingen fra interessegruppe til akademisk utdanning i årene 1956-2006.</h3>

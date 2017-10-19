@@ -22,26 +22,26 @@
 			<tr>
 				<td><a href="#9788299793209">Biblioteklover og annen statlig bibliotekpolitikk i Norden</a>
 				</td>
-				<td>Asbj&oslash;rn Langeland</td>
+				<td>Asbjørn Langeland</td>
 				<td class="price">200</td>
 			</tr>
 			<tr>
 				<td><a href="#9788293298144">Bibliotek og offentlig informasjon</a>
 				</td>
-				<td>&Oslash;ivind Frisvold</td>
+				<td>øivind Frisvold</td>
 				<td class="price">100</td>
 			</tr>
 			
 			<tr>
 				<td><a href="#9788293298007">DRS Cumulus Oslo 2013. Design Learning for Tomorrow. Design Education from kindergarten to PhD. Proceedings from the 2nd International Conference for Design Education Researchers, 14-17 May 2013.</a>
 				</td>
-				<td>Janne Beate Reitan, Peter Loyd, Erik Bohemia, Liv Merete Nielsen, Ingvild Digranes og Eva Lutn&aelig;s (Red.)</td>
+				<td>Janne Beate Reitan, Peter Loyd, Erik Bohemia, Liv Merete Nielsen, Ingvild Digranes og Eva Lutnæs (Red.)</td>
 				<td class="price">2000</td>
 			</tr>
 			<tr>
 				<td><a href="#9788299793223">Emneordskatalogisering: innholdsanalyse, emnerepresentasjon og lagring</a>
 				</td>
-				<td>Ellen Hjorts&aelig;ter</td>
+				<td>Ellen Hjortsæter</td>
 				<td class="price">250</td>
 			</tr>
 			<tr>
@@ -51,7 +51,7 @@
 				<td class="price">275</td>
 			</tr>
 			<tr>
-				<td><a href="#9788299793247">Fotnote eller tekst? Arkiv og arkivarar i det 21. hundre&aring;ret.</a>
+				<td><a href="#9788299793247">Fotnote eller tekst? Arkiv og arkivarar i det 21. hundreåret.</a>
 				</td>
 				<td>Gudmund Valderhaug</td>
 				<td class="price">275</td>
@@ -59,7 +59,7 @@
 			<tr>
 				<td><a href="#9788299793278">Fra skyggetanter til yrkeskvinner: livet, tiden og menneskene ved Den kvinnelige industriskolen fra 1875 til 1950</a>
 				</td>
-				<td>Kirsten R&oslash;vig H&aring;berg</td>
+				<td>Kirsten Røvig Håberg</td>
 				<td class="price">300</td>
 			</tr>
 
@@ -77,40 +77,40 @@
 			</tr>
 
 			<tr>
-				<td><a href="#9788299793230">Hva arkivene skjulte? En unders&oslash;kelse av kvensk og samisk i offentlige arkiver i Kistrand (Porsanger) og Nordreisa 1865-1948.</a>
+				<td><a href="#9788299793230">Hva arkivene skjulte? En undersøkelse av kvensk og samisk i offentlige arkiver i Kistrand (Porsanger) og Nordreisa 1865-1948.</a>
 				</td>
 				<td>Kaisa Johanna Maliniemi</td>
 				<td class="price">275</td>
 			</tr>
 			
 			<tr>
-				<td><a href="#9788293298076">H&oslash;gre utdanning 1970-1994 med vekt p&aring; h&oslash;gskolevirksomheten i Oslo og Akershus.</a>
+				<td><a href="#9788293298076">Høgre utdanning 1970-1994 med vekt på høgskolevirksomheten i Oslo og Akershus.</a>
 				</td>
-				<td>&Aring;sulv Fr&oslash;ysnes</td>
+				<td>åsulv Frøysnes</td>
 				<td class="price">50</td>
 			</tr>
 			<tr>
-				<td><a href="#9788299793254">Krysspeilinger. Perspektiver p&aring; bibliotek og informasjonsvitenskap.</a>
+				<td><a href="#9788299793254">Krysspeilinger. Perspektiver på bibliotek og informasjonsvitenskap.</a>
 				</td>
 				<td>Ragnar Audunsson (Red.)</td>
 				<td class="price">275</td>
 			</tr>
 			<tr>
-				<td><a href="#9788299793261">L&aelig;rerutdanning i liv og l&aelig;re gjennom 50 &aring;r</a>
+				<td><a href="#9788299793261">Lærerutdanning i liv og lære gjennom 50 år</a>
 				</td>
-				<td>Per &Oslash;sterud</td>
+				<td>Per østerud</td>
 				<td class="price">300</td>
 			</tr>
 			<tr>
-				<td><a href="#9788293298113">Norsk l&aelig;rarutdanning i etterkrigstida. Ei utvikling i spenning mellom tradisjon og fornying.</a>
+				<td><a href="#9788293298113">Norsk lærarutdanning i etterkrigstida. Ei utvikling i spenning mellom tradisjon og fornying.</a>
 				</td>
-				<td>Per &Oslash;sterud, Sigmund Sunnan&aring; og &Aring;sulv Fr&oslash;ysnes</td>
+				<td>Per østerud, Sigmund Sunnanå og åsulv Frøysnes</td>
 				<td class="price">200</td>
 			</tr>
 			<tr>
-				<td><a href="#9788293298069">Ny praksis &ndash; ny kunnskap: Om utviklingsarbeid som sjanger</a>
+				<td><a href="#9788293298069">Ny praksis – ny kunnskap: Om utviklingsarbeid som sjanger</a>
 				</td>
-				<td>Gerd Bj&oslash;rke, Harald Jarning og Olav Eikeland (Red.)</td>
+				<td>Gerd Bjørke, Harald Jarning og Olav Eikeland (Red.)</td>
 				<td class="price">395</td>
 			</tr>
 			<tr>
@@ -120,7 +120,7 @@
 				<td class="price">250</td>
 			</tr>
 			<tr>
-				<td><a href="#9788299793216">Undervegs. Festskrift til Egil Nys&aelig;ter</a>
+				<td><a href="#9788299793216">Undervegs. Festskrift til Egil Nysæter</a>
 				</td>
 				<td>Anne Aune og Gudmund Valderhaug (Red.)</td>
 				<td class="price">300</td>

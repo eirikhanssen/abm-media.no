@@ -20,11 +20,11 @@
     <main class="contain">
       <h1>Kort om ABM-media as</h1>
        <p><strong>ABM-Media as</strong> er et forlag som gir ut fagbladene <a href="http://www.bokogbibliotek.no">Bok og Bibliotek</a> og <a href="http://www.museumsnytt.no/">Museumsnytt</a> samt <a href="http://www.tidsskriftetarkiv.no">Tidsskriftet Arkiv</a>.</p>
-       <p>ABM-Media AS skal ha som intensjon &aring; etablere publiseringskanaler for arkiv, bibliotek og museumsomr&aring;dene som er godkjent i UH-sektorens finansieringssystem.</p>
-       <p>Les mer <a href="om.php">om ABM-media</a>, hvordan du <a href="kontakt.php">kommer i kontakt</a> med oss, eller se p&aring; <a href="utgivelser.php">utgivelsene</a> v&aring;re som kan bestilles.</p>
+       <p>ABM-Media AS skal ha som intensjon å etablere publiseringskanaler for arkiv, bibliotek og museumsområdene som er godkjent i UH-sektorens finansieringssystem.</p>
+       <p>Les mer <a href="om.php">om ABM-media</a>, hvordan du <a href="kontakt.php">kommer i kontakt</a> med oss, eller se på <a href="utgivelser.php">utgivelsene</a> våre som kan bestilles.</p>
 
 <?php include 'inc_footer.php'; ?>
-<p class="visits">Antall bes&oslash;k:
+<p class="visits">Antall besøk:
 <script type="text/javascript" src="http://www.dittnettsted.com/teller/getcount.php?id=f4cea91095"></script>
     </p>
 </body>

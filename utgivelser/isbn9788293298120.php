@@ -9,12 +9,12 @@
     <ul class="bookmeta">
         <li><strong>ISBN: </strong>9788293298120</li>
         <li class="keywords"><strong>Emneord: </strong>bibliotekarutdanning, arkivutdanning, arkiv, bibliotek</li>
-        <li><strong>Spr&aring;k: </strong>Norsk (bokm&aring;l)</li>
+        <li><strong>Språk: </strong>Norsk (bokmål)</li>
         <li><strong>Utgitt: </strong>2015</li>
         <li><strong>Forlag: </strong> ABM-media</li>
         <li><strong>Utgave: </strong>1. utg.</li>
         <li><strong>Ant sider: </strong>178</li>
-        <li><strong>Pris: </strong>250,&ndash;</li>
+        <li class="price"><strong>Pris: </strong>250</li>
     </ul>
     <h3>Sammendrag</h3>
     <p><em>Har vi behov for bibliotek når «alt ligger på nettet»?</em></p>
@@ -24,5 +24,5 @@
     <p>Det er 75 år siden Statens bibliotekskole startet. Bibliotek- og arkivutdanningene videreføres i dag av Høgskolen i Oslo og Akershus. I denne boka diskuteres problemstillinger knyttet til ulike deler av utdanningens og profesjonens historie. Videre inviteres til debatt om bibliotekene og bibliotekarenes roller i dagens samfunn.</p>
     <h3>Om forfatteren</h3>
     <p><strong>Ragnar Audunson</strong> har redigert boka. Han er professor ved Institutt for arkiv-, bibliotek- og informasjonsfag ved Høgskolen i Oslo og Akershus. Han ledet forskningsprosjektet PLACE som utforsket bibliotekets potensial som møteplass og som var finansiert av NFR fra 2007 til 2012. Nå leder av forskergruppa for Informasjon og samfunn. Han har doktorgrad i statsvitenskap fra Universitetet i Oslo.</p>
-    <img alt="Coverbilde for Ny praksis &ndash; ny kunnskap: Om utviklingsarbeid som sjanger" src="img/samle-formidle-dele-422x600.jpg" class="fullsizecover" height="600" width="422">
+    <img alt="Coverbilde for Ny praksis – ny kunnskap: Om utviklingsarbeid som sjanger" src="img/samle-formidle-dele-422x600.jpg" class="fullsizecover" height="600" width="422">
 </div>
